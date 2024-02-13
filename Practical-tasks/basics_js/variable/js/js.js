@@ -1,5 +1,3 @@
-let myNumber = 10
-
-myNumber = 5
-
-console.log(myNumber)
+const myName = Vladimir
+const age = 24
+const myDate = 8
