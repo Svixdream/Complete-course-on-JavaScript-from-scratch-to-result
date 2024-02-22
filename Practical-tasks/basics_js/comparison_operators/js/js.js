@@ -1,3 +1,3 @@
 // console.log(true > false)
 
-console.log("10" === 10)
+console.log("2" > "12")
